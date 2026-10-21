@@ -2,7 +2,7 @@
 
 Proyecto de análisis de datos de punta a punta: extracción con **SQL (BigQuery)**, limpieza con **Python (pandas)** y visualización en **Power BI**.
 
-![Dashboard](capturas/dashboard.png)
+![Dashboard](capturas/dashboard finalizado.png)
 
 ## Problema de negocio
 
