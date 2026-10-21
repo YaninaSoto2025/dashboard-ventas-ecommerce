@@ -1,7 +1,7 @@
 # Dashboard de ventas – e-commerce de moda
 
 Proyecto de análisis de datos de punta a punta: extracción con **SQL (BigQuery)**, limpieza con **Python (pandas)** y visualización en **Power BI**.
-
+![Dashboard](dashboard_finalizado.png)
 
 
 ## Problema de negocio
