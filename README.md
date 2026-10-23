@@ -44,17 +44,15 @@ Una tienda online de moda quiere responder tres preguntas:
 
 ## Estructura del repositorio
 
-```
 ├── 01_limpieza_productos.py     # limpieza y cálculo de margen de productos
 ├── 02_ventas_mensuales.py       # limpieza y métricas de ventas mensuales
 ├── productos.csv                # datos originales (BigQuery)
 ├── productos_limpio.csv         # datos limpios, con margen
 ├── ventas_mensuales.csv         # datos originales (BigQuery)
 ├── ventas_mensuales_limpio.csv  # datos limpios, con ticket promedio y crecimiento
-├── dashboard_ventas.pbix        # dashboard de Power BI
-├── capturas/                    # captura del dashboard
+├── dashboard de ventas.pbix     # dashboard de Power BI
+├── *.png                        # capturas del proceso y del dashboard
 └── sql/                         # consultas usadas en BigQuery
-```
 
 ## Cómo reproducirlo
 
