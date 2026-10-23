@@ -44,6 +44,7 @@ Una tienda online de moda quiere responder tres preguntas:
 
 ## Estructura del repositorio
 
+```
 ├── 01_limpieza_productos.py     # limpieza y cálculo de margen de productos
 ├── 02_ventas_mensuales.py       # limpieza y métricas de ventas mensuales
 ├── productos.csv                # datos originales (BigQuery)
@@ -53,6 +54,8 @@ Una tienda online de moda quiere responder tres preguntas:
 ├── dashboard de ventas.pbix     # dashboard de Power BI
 ├── *.png                        # capturas del proceso y del dashboard
 └── sql/                         # consultas usadas en BigQuery
+```
+
 
 ## Cómo reproducirlo
 
